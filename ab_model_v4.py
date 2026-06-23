@@ -4,18 +4,13 @@ ab_model_v4.py — Attentional Blink: Re-entrant Cortico-Thalamic Loop Latency
 Author : Rakesh Sengupta  (rakesh.sengupta@krea.edu.in)
 Version: 4  (post-Biological-Cybernetics reframe)
 
-WHY v4 EXISTS  (strategy, not cosmetics)
+WHY v4 EXISTS 
 ----------------------------------------
-The BC rejection turned on two substantive points:
+Two substantive points:
   (a) the axonal lengths were anatomically wrong (SLF/IC too long), which
       "counters the premise" IF the premise is conduction; and
   (b) the model was framed as a *discovery* of mechanism when, given the
       scoring scheme, the headline result is closer to true-by-construction.
-
-v4 reframes the paper as a SUFFICIENCY-AND-PREDICTION result whose load-
-bearing variable is the (mostly cortical) integration latency, not axonal
-transport. The axonal correction then becomes a ROBUSTNESS figure rather
-than a fatal flaw.
 
 KEY SCIENTIFIC CHANGES FROM v3
 ------------------------------
